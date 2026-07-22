@@ -1,12 +1,27 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./voltex-logo-white.svg">
+    <img src="./voltex-logo.svg" alt="Voltex" width="220">
+  </picture>
+</p>
 
-<!--
+<p align="center">
+  <strong>Next-generation home automation — built on open standards.</strong>
+</p>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Voltex designs connected automation products for the modern home, with a focus on
+reliability, seamless interoperability, and a great everyday experience.
+
+### 🔌 Built on open standards
+- **Matter** — cross-ecosystem smart-home connectivity
+- **Thread** — low-power, self-healing mesh networking
+
+### 🌐 Open source
+We build on — and contribute back to — the open-source ecosystem behind
+interoperable smart homes.
+
+---
+
+<p align="center"><sub>Building the next generation of home automation.</sub></p>
