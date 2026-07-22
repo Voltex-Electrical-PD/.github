@@ -5,26 +5,41 @@
   </picture>
 </p>
 
-<p align="center"><strong>Smart, connected products for the modern home.</strong></p>
+<p align="center"><strong>A smart-home ecosystem built for electricians.</strong></p>
 
 ---
 
 ## About Voltex
 
-Voltex is an electrical products company. With **ORA**, our smart-home ecosystem,
-we are entering the connected space and bringing our engineering into a new
-generation of home automation.
+Voltex is an electrical products company. Our goal with **ORA** is simple: help
+electricians. ORA is a smart-home ecosystem designed to be fast and easy to
+install, robust in the field, and built entirely on open standards.
 
 ## ORA — a connected home ecosystem
 
-ORA is a cohesive ecosystem of smart devices working with a central hub, designed
-to run together seamlessly and to interoperate across the wider smart-home world.
-This organization is home to ORA's open engineering work.
+ORA is a cohesive set of smart devices working with a central hub — made to be
+installed by a sparky in minutes and to run reliably for years, interoperating
+across the wider smart-home world rather than locking anyone into a single vendor.
 
 ## Built on open standards
 
-- **Matter** — cross-ecosystem smart-home connectivity
-- **Thread** — low-power, self-healing mesh networking
+- **Matter** — universal, cross-ecosystem smart-home connectivity
+- **Thread** — the low-power IP mesh underneath
+
+### Why Thread
+
+Thread is IP-based, low-power, and a self-healing mesh, so it ticks every box the
+common alternatives only tick in part:
+
+| Network | IP-based | Low-power | Self-healing mesh |
+| --- | :---: | :---: | :---: |
+| **Thread** | Yes | Yes | Yes |
+| Zigbee | No | Yes | Yes |
+| Wi-Fi | Yes | No | No |
+
+Being IP-based means devices are addressable end-to-end with no translation
+gateway, low power means they run for years on small energy budgets, and the mesh
+extends range and heals around failures.
 
 ---
 
