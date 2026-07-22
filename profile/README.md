@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><strong>For Life</strong></p>
+<p align="center"><strong>Voltex for Life</strong></p>
 
 <p align="center"><sub>A smart-home ecosystem built for electricians.</sub></p>
 
@@ -42,6 +42,12 @@ common alternatives only tick in part:
 Being IP-based means devices are addressable end-to-end with no translation
 gateway, low power means they run for years on small energy budgets, and the mesh
 extends range and heals around failures.
+
+## Open source
+
+We build ORA on open standards, extend them where our stack needs it, and
+contribute back to the open-source projects that make an interoperable smart
+home possible.
 
 ---
 
