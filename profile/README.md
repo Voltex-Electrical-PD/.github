@@ -5,7 +5,9 @@
   </picture>
 </p>
 
-<p align="center"><strong>A smart-home ecosystem built for electricians.</strong></p>
+<p align="center"><strong>Voltex for Life</strong></p>
+
+<p align="center"><sub>A smart-home ecosystem built for electricians.</sub></p>
 
 ---
 
